@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\bin\Debug\EmpleadosDAL.dll
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\bin\Debug\EmpleadosDAL.pdb
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\bin\Debug\EmpleadosEntidad.dll
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\bin\Debug\EmpleadosEntidad.pdb
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\obj\Debug\EmpleadosDAL.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\obj\Debug\EmpleadosDAL.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\obj\Debug\EmpleadosDAL.csproj.CopyComplete
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\obj\Debug\EmpleadosDAL.dll
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosDAL\obj\Debug\EmpleadosDAL.pdb

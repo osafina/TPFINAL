@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosEntidad\bin\Debug\EmpleadosEntidad.dll
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosEntidad\bin\Debug\EmpleadosEntidad.pdb
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosEntidad\obj\Debug\EmpleadosEntidad.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosEntidad\obj\Debug\EmpleadosEntidad.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosEntidad\obj\Debug\EmpleadosEntidad.dll
+C:\Users\usuario\Desktop\TPFINAL_LUQUEJOSEFINA\EmpleadosEntidad\obj\Debug\EmpleadosEntidad.pdb
